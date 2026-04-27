@@ -9,10 +9,10 @@ The app also includes an AI chatbot for everyday questions, a safe anonymous com
 Mira focuses on emotional comfort, cultural sensitivity, and making users feel safe while learning about their health.
 
 IMAGES:
-<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/61fced11-cc90-4cfb-b6bd-19285077e967" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/afe1fd63-1fb0-43fb-b6a9-af11c3adb008" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/92421d77-6336-491f-8b32-ab740ef3d9a9" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/11e3f49f-e5d9-430d-9d1d-0ec1cce6eea4" />
+<img width="315" height="594" alt="image" src="https://github.com/user-attachments/assets/0bbb2e92-0739-4246-8e27-973349d7fc89" />
+<img width="313" height="658" alt="image" src="https://github.com/user-attachments/assets/ad4170eb-939f-45bd-bbff-d339d4aef610" />
+<img width="312" height="654" alt="image" src="https://github.com/user-attachments/assets/1d260659-ca27-4e15-9a01-1a5b0c2d2cb4" />
+<img width="314" height="654" alt="image" src="https://github.com/user-attachments/assets/90842e2d-b3ec-4d22-b023-4ff64d16c313" />
 
 Note: The frontend was rapidly prototyped using AI tools to visualize the UI/UX architecture. The live working prototype is attached in the submission form.
 
